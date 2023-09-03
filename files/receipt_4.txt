@@ -1,0 +1,14 @@
+						Receipt from Shop '2+2':
+				Date of purchase: 25/05/2023 13:25:54
+
+Order ID: Order234Vera
+ID of receipt: 4
+Cashier that took care of your purchase:
+Georgi', idNumber: 123G', on cash register 1C
+
+ShoppingCart: 
+Flowers	 x2		6.50
+
+Cake	 x2		7.00
+
+Total price: 27.00

@@ -1,0 +1,12 @@
+						Receipt from Shop '2+2':
+				Date of purchase: 25/05/2023 13:03:19
+
+Order ID: Order123
+ID of receipt: 6
+Cashier that took care of your purchase:
+null
+
+ShoppingCart: 
+Cake	 x10		7.00
+
+Total price: 70.00
